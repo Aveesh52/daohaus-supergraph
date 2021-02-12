@@ -45,7 +45,7 @@ dataSources:
         - Moloch
         - Minion
       abis:
-        - name: V1Moloch
+        - name: V2Moloch
           file: ./abis/V1Moloch.json
         - name: MinionFactory
           file: ./abis/MinionFactory.json
@@ -70,7 +70,7 @@ dataSources:
         - Moloch
         - Member
       abis:
-        - name: V1Moloch
+        - name: V2Moloch
           file: ./abis/V1Moloch.json
         - name: Guildbank
           file: ./abis/Guildbank.json
