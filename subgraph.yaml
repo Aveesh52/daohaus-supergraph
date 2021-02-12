@@ -8,7 +8,7 @@ dataSources:
     source:
       address: "0x6690C139564144b27ebABA71F9126611a23A31C9"
       abi: V21Factory
-      startBlock: 11499150
+      startBlock: 10754093
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.3
@@ -36,7 +36,7 @@ dataSources:
     source:
       address: "0x91Eb3d16Cb09dC884bB3146e04C1A1cF80EEa548"
       abi: MinionFactory
-      startBlock: 11499121
+      startBlock: 10751763
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.3
@@ -60,8 +60,8 @@ dataSources:
     network: matic
     source:
       address: "0x12133615eE841F1309B3d2E374ba2Dbf549DF723"
-      abi: V1Moloch
-      startBlock: 7218560
+      abi: V2Moloch
+      startBlock: 10754113
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.3
