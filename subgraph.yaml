@@ -46,7 +46,7 @@ dataSources:
         - Minion
       abis:
         - name: V2Moloch
-          file: ./abis/V1Moloch.json
+          file: ./abis/V2Moloch.json
         - name: MinionFactory
           file: ./abis/MinionFactory.json
         - name: Minion
@@ -71,7 +71,7 @@ dataSources:
         - Member
       abis:
         - name: V2Moloch
-          file: ./abis/V1Moloch.json
+          file: ./abis/V2Moloch.json
         - name: Guildbank
           file: ./abis/Guildbank.json
         - name: Erc20
